@@ -80,13 +80,13 @@ const Portfolio = () => {
           </div>
           
           <div className="flex justify-center space-x-6 mb-12">
-            <a href="#" className="p-3 bg-white/10 hover:bg-white/20 rounded-full transition-colors backdrop-blur-sm">
+            <a href="/#" className="p-3 bg-white/10 hover:bg-white/20 rounded-full transition-colors backdrop-blur-sm">
               <Github size={24} />
             </a>
-            <a href="#" className="p-3 bg-white/10 hover:bg-white/20 rounded-full transition-colors backdrop-blur-sm">
+            <a href="/#" className="p-3 bg-white/10 hover:bg-white/20 rounded-full transition-colors backdrop-blur-sm">
               <Linkedin size={24} />
             </a>
-            <a href="#" className="p-3 bg-white/10 hover:bg-white/20 rounded-full transition-colors backdrop-blur-sm">
+            <a href="/#" className="p-3 bg-white/10 hover:bg-white/20 rounded-full transition-colors backdrop-blur-sm">
               <Mail size={24} />
             </a>
           </div>
